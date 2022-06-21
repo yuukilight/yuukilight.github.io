@@ -4,17 +4,22 @@
 
 # Site
 title: Hexo
-subtitle: ''
+subtitle: 'yuukilight'
 description: ''
 keywords:
-author: John Doe
-language: en    # Chinese could set: zh-CN
+author: yuukilight
+language: zh-CN    # Chinese could set: zh-CN  English set: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://yuukilight.github.io ## http://example.com
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+permaling: article/:title.html
+# 中文链接转拼音
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -114,9 +119,9 @@ search:
   field: post
 
 # change chinese name to  word(pingying)
-permalink_pinyin:
-  enable: true
-  separator: '-' # default: '-'
+# permalink_pinyin:
+#   enable: true
+#   separator: '-' # default: '-'
 
 # hold on emoji
 githubEmojis:
