@@ -43,6 +43,8 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
+# 代码高亮配置文件
 highlight:
   enable: false
   line_number: true
@@ -153,3 +155,8 @@ live2d:
     show: true
   react:
     opacity: 0.7
+
+# 数学公式配置
+math:
+  engine: 'mathjax' 
+  mathjax: true

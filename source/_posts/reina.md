@@ -1,10 +1,10 @@
 ---
-title: 吾妻丽奈
+title: 丽奈
 date: 2022-03-05 16:02:54
 tags:
 ---
 
-![my wife](../images/reina1.png)
+![reina](../images/reina1.png)
 芜湖
 
 [test](https://raw.githubusercontent.com/yuukilight/yuukilight.github.io/master/file/test.pdf)
