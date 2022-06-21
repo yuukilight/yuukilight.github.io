@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>yuukilight</subtitle>
   <link href="http://yuukilight.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuukilight.github.io/"/>
-  <updated>2022-03-06T08:44:35.727Z</updated>
+  <updated>2022-06-21T19:10:09.129Z</updated>
   <id>http://yuukilight.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_math</title>
+    <link href="http://yuukilight.github.io/2022/06/22/test-math/"/>
+    <id>http://yuukilight.github.io/2022/06/22/test-math/</id>
+    <published>2022-06-21T18:56:30.000Z</published>
+    <updated>2022-06-21T19:10:09.129Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;test1&quot;&gt;&lt;a href=&quot;#test1&quot; class=&quot;headerlink&quot; title=&quot;test1&quot;&gt;&lt;/a&gt;test1&lt;/h1&gt;&lt;h2 id=&quot;二级标题1&quot;&gt;&lt;a href=&quot;#二级标题1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="math" scheme="http://yuukilight.github.io/categories/math/"/>
+    
+    
+    <category term="1, 2, 3" scheme="http://yuukilight.github.io/tags/1-2-3/"/>
+    
+    <category term="abaaba" scheme="http://yuukilight.github.io/tags/abaaba/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>
@@ -71,7 +98,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/reina1.png&quot; alt=&quot;reina&quot;&gt;&lt;br&gt;芜湖&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;../images/reina1.png&quot; alt=&quot;reina&quot;&gt;&lt;br&gt;芜湖&lt;/p&gt;
 &lt;p&gt;&lt;a</summary>
         
       

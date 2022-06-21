@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #34c0eb 0%, #f568e2 100%);
 }
 
 .text-color {
@@ -252,14 +252,40 @@ mark {
     color: #fff;
 }
 
-.progress-bar {
+
+
+/* 滚动条个性化 */
+::-webkit-scrollbar-thumb {
+    background-color: #1fc2f3;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.4) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.4) 50%,rgba(255,255,255,.4) 75%,transparent 75%,transparent);
+    border-radius: 5em;
+}
+::-webkit-scrollbar-track {
+    background-color: #0F0E0E;
+    border-radius: 5m;
+}
+::-webkit-scrollbar {
+    width: 10;
+    height: 15px;
+}
+
+/* .progress-bar {
     height: 4px;
     position: fixed;
     bottom: 0;
     z-index: 300;
     background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
     opacity: 0.8;
+} */
+.progress-bar {
+    height: 10px;
+    position: fixed;
+    bottom: 0;
+    z-index: 300;
+    background: linear-gradient(to right, #1fc2f3 0%, #eb77d2 100%);
+    opacity: 0.8;
 }
+
 
 .sidenav-overlay {
     z-index: 500;
@@ -533,7 +559,7 @@ header .go-back i {
     position: relative;
     display: flex;
     align-items: center;
-    height: 60vh;
+    height: 1280px;
     padding: 0;
     border: 0;
     overflow: hidden;
@@ -550,10 +576,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/* .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+} */
 
 .bg-cover:before,
 .bg-cover:after {
