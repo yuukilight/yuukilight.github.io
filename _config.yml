@@ -15,7 +15,7 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://yuukilight.github.io ## http://example.com
 # permalink: :year/:month/:day/:title/
-permaling: article/:title.html
+permaling: article/:title/
 # 中文链接转拼音
 permalink_pinyin:
   enable: true
@@ -143,7 +143,7 @@ feed:
   order_by: -date
 
 live2d:
-  enable: true
+  enable: false
   scriptFrom: local
   pluginRootPath: live2dw/
   pluginJsPath: lib/
