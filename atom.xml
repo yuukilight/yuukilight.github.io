@@ -6,7 +6,7 @@
   <link href="http://yuukilight.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuukilight.github.io/"/>
-  <updated>2022-06-21T19:10:09.129Z</updated>
+  <updated>2022-11-17T07:16:30.288Z</updated>
   <id>http://yuukilight.github.io/</id>
   
   <author>
@@ -17,94 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_math</title>
-    <link href="http://yuukilight.github.io/2022/06/22/test-math/"/>
-    <id>http://yuukilight.github.io/2022/06/22/test-math/</id>
-    <published>2022-06-21T18:56:30.000Z</published>
-    <updated>2022-06-21T19:10:09.129Z</updated>
+    <title>如何学习</title>
+    <link href="http://yuukilight.github.io/2022/11/17/article/"/>
+    <id>http://yuukilight.github.io/2022/11/17/article/</id>
+    <published>2022-11-17T06:14:58.000Z</published>
+    <updated>2022-11-17T07:16:30.288Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;test1&quot;&gt;&lt;a href=&quot;#test1&quot; class=&quot;headerlink&quot; title=&quot;test1&quot;&gt;&lt;/a&gt;test1&lt;/h1&gt;&lt;h2 id=&quot;二级标题1&quot;&gt;&lt;a href=&quot;#二级标题1&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;&lt;b&gt;&lt;font size=&quot;7&quot; color=&quot;black&quot; face=&quot;楷书&quot;&gt;学会学习&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;参考视频&lt;a href=&quot;https://www.bilibili.com/video/BV1bW411a7oM&quot;&gt; Crash Course</summary>
         
       
     
     
     
-    <category term="math" scheme="http://yuukilight.github.io/categories/math/"/>
+    <category term="学习方法" scheme="http://yuukilight.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
     
     
-    <category term="1, 2, 3" scheme="http://yuukilight.github.io/tags/1-2-3/"/>
+    <category term="学习" scheme="http://yuukilight.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="abaaba" scheme="http://yuukilight.github.io/tags/abaaba/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yuukilight.github.io/2022/03/06/test/"/>
-    <id>http://yuukilight.github.io/2022/03/06/test/</id>
-    <published>2022-03-06T08:43:54.000Z</published>
-    <updated>2022-03-06T08:44:35.727Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;尝试同步源码&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yuukilight.github.io/2022/03/06/hello-world/"/>
-    <id>http://yuukilight.github.io/2022/03/06/hello-world/</id>
-    <published>2022-03-06T08:05:42.303Z</published>
-    <updated>2022-03-06T08:05:42.303Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>丽奈</title>
-    <link href="http://yuukilight.github.io/2022/03/05/reina/"/>
-    <id>http://yuukilight.github.io/2022/03/05/reina/</id>
-    <published>2022-03-05T08:02:54.000Z</published>
-    <updated>2022-04-07T13:42:08.741Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;../images/reina1.png&quot; alt=&quot;reina&quot;&gt;&lt;br&gt;芜湖&lt;/p&gt;
-&lt;p&gt;&lt;a</summary>
-        
-      
-    
-    
-    
+    <category term="方法论" scheme="http://yuukilight.github.io/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
     
   </entry>
   
